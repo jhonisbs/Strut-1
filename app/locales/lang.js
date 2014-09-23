@@ -3,15 +3,17 @@ define(['../locales/de',
 		'../locales/es',
 		'../locales/fr',
 		'../locales/nl',
+		'../locales/pt',
 		'../locales/ru',
 		'handlebars'],
-function(de, en, es, fr, nl, ru, handlebars) {
+function(de, en, es, fr, nl, pt, ru, handlebars) {
 	var langs = {
 		en: en,
 		de: de,
 		es: es,
 		fr: fr,
 		nl: nl,
+		pt: pt,
 		ru: ru
 	};
 
